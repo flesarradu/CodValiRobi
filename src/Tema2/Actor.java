@@ -34,9 +34,9 @@ public class Actor {
                  String prenume,
                  Date anulNasterii,
                  String numeScoala) {
-        this.setNume(nume);
+        setNume(nume);
         this.anulNasterii = anulNasterii;
-        this.setPrenume(prenume);
+        setPrenume(prenume);
         this.numeScoala = numeScoala;
     }
 
